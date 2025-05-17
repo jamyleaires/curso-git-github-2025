@@ -1,1 +1,1 @@
-Este arquivo contém informações adicionais para git
+Este arquivo contém informações adicionais para git. Tais como como criar uma branch e fazer merge com a main.
