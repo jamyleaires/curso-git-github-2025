@@ -8,7 +8,7 @@ O curso no YouTube é maravilhoso. Confira!
 
 [Curso Git 2025] (hattps//youtube.com/teomewhy)
 
-#Fluxo de trabalho (local).
+# Fluxo de trabalho (local).
 
 1. git checkout -b	-> cria ou atualiza arquivos
 2. git status		-> mostra se algum arquivo foi alterado ou não
