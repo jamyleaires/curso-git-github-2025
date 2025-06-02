@@ -6,6 +6,8 @@ Além disso, trabalha-se com GitFlow ao final do curso, bem como Visual Studio C
 
 O curso no YouTube é maravilhoso. Confira!
 
+[Curso Git 2025] (hattps//youtube.com/teomewhy)
+
 #Fluxo de trabalho (local).
 
 1. git checkout -b	-> cria ou atualiza arquivos
