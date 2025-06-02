@@ -22,20 +22,20 @@ O curso no YouTube é maravilhoso. Confira!
 3. git remote add origin <link do repositório github>
 4. git push origin main (envia o que está no repositório logal para o github)
 
-ou;
+pula para 6. ou;
 
-1. git clone <link do repositório?>
-2. git checkout -b <nova_branch>
-3. alterações de arquivos
-4. git status
-5. git add arquivos
-6. git status
-7. git commit -m "nova mensagem"
-8. git push origin <nova_branch>
-9. abrir Pull request no GitHub para main
-10. excluir <nova_branch> origin
-11. git checkout main
-12. git branch -D <nova_branch>
+5. git clone <link do repositório?>
+6. git checkout -b <nova_branch>
+7. alterações de arquivos
+8. git status
+9. git add arquivos
+10. git status
+11. git commit -m "nova mensagem"
+12. git push origin <nova_branch>
+13. abrir Pull request no GitHub para main
+14. excluir <nova_branch> origin
+15. git checkout main
+16. git branch -D <nova_branch>
 
 # Fluxo de trabalho GitHub <> Local (projetos open-source)
 1. Fork do projeto para seu próprio github
