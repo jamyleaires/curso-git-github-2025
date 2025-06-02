@@ -16,8 +16,15 @@ O curso no YouTube é maravilhoso. Confira!
 6. git checkout <branch>
 7. git merge nova_branch
 
-# Fluxo de trabalho Github <> Local (projeto próprio ou da empresa)
-1. git clone
+# Fluxo de trabalho Local <> Github (projeto próprio ou da empresa)
+1. git remote -v (saber se está conectado no github)
+2. cria repositório no github
+3. git remote add origin <link do repositório github>
+4. git push origin main (envia o que está no repositório logal para o github)
+
+ou;
+
+1. git clone <link do repositório?>
 2. git checkout -b <nova_branch>
 3. alterações de arquivos
 4. git status
